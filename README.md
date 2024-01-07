@@ -3,7 +3,7 @@ This repository is includes the files for the project to answer the question can
 
 In this project we analyze if ModelScopeT2V is capable of generating videos that follow the Arrow of Time.
 
-Please see the paper here: [Can ModelScopeT2V Understand Arrow of Time](Can ModelScopeT2V Understand Arrow of Time_Final_Paper.pdf)
+Please see the paper here: [Can ModelScopeT2V Understand Arrow of Time](Can_ModelScopeT2V_Understand_Arrow_of_Time_Final_Paper.pdf)
 
 
 We created a classifier that is capable of classifying videos shown forward and backward. 
